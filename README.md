@@ -15,11 +15,11 @@ This Flutter-based application helps users calculate their **Body Mass Index (BM
 ---
 
 ## Screenshots 📸
-| Gender Selection | Height Adjustment | Weight & Age | Results |
-|-------------------|-------------------|--------------|---------|
-| ![Gender](screenshots/gender.png) | ![Height](screenshots/height.png) | ![WA](screenshots/wa.png) | ![Results](screenshots/results.png) |
+
+![Home Screen](screenshots/home.png)
 
 ---
+
 
 ## How It Works 🛠️
 
