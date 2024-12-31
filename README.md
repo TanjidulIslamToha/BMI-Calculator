@@ -45,3 +45,26 @@ This Flutter-based application helps users calculate their **Body Mass Index (BM
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/YourUsername/BMI-Calculator.git
+   ```
+
+
+ 2. **Navigate to the project directory**:
+
+```bash
+Copy code
+cd BMI-Calculator
+```
+
+3. **Install dependencies**:
+
+```bash
+Copy code
+flutter pub get
+```
+4. **Run the app**:
+
+```bash
+Copy code
+flutter run
+```
+
