@@ -16,6 +16,7 @@ This Flutter-based application helps users calculate their **Body Mass Index (BM
 
 ## Screenshots 📸
 
+![Home Screen](screenshots/home.png)
 
 
 ---
